@@ -1,16 +1,15 @@
-### Hi there 👋
+Hii, I'm Arpit 👋
 
-<!--
-**ArpitKRS/ArpitKRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓I'm an Open Source Enthusiast and a Freshman pursuing my bachelor in Computer Science and Engineering.
 
-Here are some ideas to get you started:
+✨ I'm very passionate about Docker, Kubernetes and DevOps, Machine learning, Deep Learning, and Web Development as well and I'm also trying to explore as much as I can, currently trying hands in Tensorflow and Google cloud related events. I have some experience in sparkAr and Unity too.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+❤️ I'm about to start contributing in open source projects and currently I'm looking for some good projects in which I can learn as well.
+
+⭐ I would love to start writing some articles to share as well as gain knowledge about tech world.
+
+😇 I spend most of my time learning DSA and making some machine learning projects other than learning new stuffs.
+
+👾 Github :https://github.com/ArpitKRS
+🐦 Twitter : @_Arpit_2507 
+💠Linkedin:https://www.linkedin.com/in/arpit-kumar-singh-/
