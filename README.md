@@ -8,7 +8,7 @@ Hii, I'm Arpit 👋
 
 ⭐ I would love to start writing some articles to share as well as gain knowledge about tech world.
 
-😇 I spend most of my time learning DSA and making some machine learning projects other than learning new stuffs.
+😇 I spend most of my time learning DSA and making projects along with learning new stuffs.
 
 👾 Github :https://github.com/ArpitKRS
 🐦 Twitter : @_Arpit_2507 
