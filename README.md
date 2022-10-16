@@ -11,13 +11,13 @@
 - 🔭 I’m currently working on Android Developemnt  
   
 
-- 🌱 I’m currently learning Docker ,Kubernetes and Android Studio  
+- 🌱 Right now I'm into Docker ,Kubernetes and Android Studio  
   
 
 - ❓ Ask me about anything related to DevOps and Cloud Computing technologies  
   
 
-- ⚡ Fun fact: I have black eyes but some people say they're deep brown in color.  
+- ⚡ Fun fact: I have black eyes but people say they're deep brown in color 😂.  
   
 
 <br/>  
