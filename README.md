@@ -5,7 +5,7 @@
 
 ### <div align="center">Hii, I'm Arpit 👋
 
-🎓I'm an Open Source Enthusiast and a Freshman pursuing my bachelor's in Computer Science and Engineering.</div>  
+🎓I'm an Open Source Enthusiast, pursuing my bachelor's in Computer Science Engineering.</div>  
   
 
 - 🔭 I’m currently working on Android Developemnt  
