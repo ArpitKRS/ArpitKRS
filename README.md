@@ -8,13 +8,13 @@
 🎓I'm an Open Source Enthusiast, pursuing my bachelor's in Computer Science Engineering.</div>  
   
 
-- 🔭 I’m currently working on Android Developemnt  
+- 🔭 I’m currently working on Blockchain  
   
 
-- 🌱 Right now I'm into Docker ,Kubernetes and Android Studio  
+- 🌱 Right now I'm into Docker ,Kubernetes ,Android Studio , and Blockchain
   
 
-- ❓ Ask me about anything related to DevOps and Cloud Computing technologies  
+- ❓ Ask me about anything related to DevOps, Blockchain, Back-end Dev, Android Dev and Cloud Computing technologies  
   
 
 - ⚡ Fun fact: I have black eyes but people say they're deep brown in color 😂.  
