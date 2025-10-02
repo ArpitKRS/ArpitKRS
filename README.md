@@ -5,13 +5,13 @@
 
 ### <div align="center">Hii, I'm Arpit 👋
 
-🎓I'm an Open Source Enthusiast, pursuing my bachelor's in Computer Science Engineering.</div>  
+🎓I'm an Open Source Enthusiast, a recent graduate in Computer Science Engineering.</div>  
   
 
-- 🔭 I’m currently working on Blockchain  
+- 🔭 I’m currently working on Blockchain & Full Stack Development.
   
 
-- 🌱 Right now I'm into Docker ,Kubernetes ,Android Studio , and Blockchain
+- 🌱 Right now I'm into Docker ,Kubernetes ,React Native , and Blockchain
   
 
 - ❓ Ask me about anything related to DevOps, Blockchain, Back-end Dev, Android Dev and Cloud Computing technologies  
